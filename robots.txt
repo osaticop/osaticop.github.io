@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osaticop.github.io/sitemap
+Sitemap: https://osaticop.github.io/app/sitemap
+Sitemap: https://osaticop.github.io/assets/sitemap
+Sitemap: https://osaticop.github.io/css/sitemap
+Sitemap: https://osaticop.github.io/includes/sitemap
+Sitemap: https://osaticop.github.io/item/sitemap
+Sitemap: https://osaticop.github.io/src/sitemap
